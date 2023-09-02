@@ -10,7 +10,7 @@
     "editor.fontFamily": "MonoLisa ScritNoLig, Regular",
     "editor.fontSize": 15.75,
     "editor.letterSpacing": 0.25,
-    "editor.fontWeight": "500",
+    "editor.fontWeight": "550",
     "editor.formatOnSave": true,
     "editor.inlineSuggest.enabled": true,
     "editor.inlineSuggest.showToolbar": "always",
@@ -69,7 +69,7 @@
                     "support.type.primitive.ts"
                 ],
                 "settings": {
-                    "fontStyle": "italic bold"
+                    "fontStyle": "italic"
                 }
             },
             {
