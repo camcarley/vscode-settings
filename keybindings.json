@@ -79,5 +79,9 @@
     {
         "key": "ctrl+k ctrl+shift+w",
         "command": "-workbench.action.closeAllGroups"
+    },
+    {
+        "key": "ctrl+r",
+        "command": "workbench.action.closeEditorsInOtherGroups"
     }
 ]
